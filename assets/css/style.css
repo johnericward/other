@@ -1,6 +1,7 @@
 .rowLogo {
     /* background-color: rgb(193, 215, 194) */
     background-color: rgb(193, 215, 206);
+    background-image: linear-gradient(to bottom right, rgb(193, 215, 206), rgb(161, 187, 176));
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     z-index: 2;
 }
