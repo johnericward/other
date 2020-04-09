@@ -10,7 +10,7 @@
 .siteLogo {
     height:150px;
     /* vertical-align: bottom; */
-    margin: 50px 0px 20px 50px;
+    margin: 30px 0px 20px 50px;
     padding: 0;
 }
 .siteLogo2 {
@@ -49,6 +49,20 @@ p {
     font-weight: bold;
     font-size: 20px;
     margin: 15px 0 0 0;
+}
+.articleAuthor1 {
+    font-family: 'Playfair Display', serif;
+    /* color: rgb(155, 114, 97); */
+    color: rgb(87, 199, 199);
+    font-size: 15px;
+    margin: 5px 10px;
+}
+.articleAuthor2 {
+    font-family: 'Playfair Display', serif;
+    /* color: rgb(155, 114, 97); */
+    color: rgb(87, 199, 199);
+    font-size: 12px;
+    margin: 5px 10px;
 }
 .articleBody1 {
     font-family: 'Playfair Display', serif;
