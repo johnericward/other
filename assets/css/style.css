@@ -1,0 +1,67 @@
+.rowLogo {
+    /* background-color: rgb(193, 215, 194) */
+    background-color: rgb(193, 215, 206);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    z-index: 2;
+}
+.logoDiv {
+    margin: auto;
+}
+.siteLogo {
+    height:150px;
+    /* vertical-align: bottom; */
+    margin: 50px 0px 20px 50px;
+    padding: 0;
+}
+.siteLogo2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 80;
+    font-weight: bold;
+    vertical-align: bottom;
+    margin: 0px, 50px, 0px, 0px;
+    /* color: rgb(84, 120, 123); */
+    /* color: rgb(212, 168, 78); */
+    color: rgb(163, 105, 48);
+    
+    /* margin: 50px 0px;
+    padding: 0; */
+}
+.mainBody {
+    background-color: rgb(246, 252, 247);
+    font-family: 'Playfair Display', serif;
+}
+p {
+    font-family: 'Playfair Display', serif;
+}
+
+.articleTitle1 {
+    font-family: 'Playfair Display', serif;
+    /* color: rgb(155, 114, 97); */
+    color: rgb(187, 98, 90);
+    font-weight: bold;
+    font-size: 40px;
+    margin: 15px 0 0 0;
+}
+.articleTitle2 {
+    font-family: 'Playfair Display', serif;
+    /* color: rgb(155, 114, 97); */
+    color: rgb(187, 98, 90);
+    font-weight: bold;
+    font-size: 20px;
+    margin: 15px 0 0 0;
+}
+.articleBody1 {
+    font-family: 'Playfair Display', serif;
+    color: rgb(155, 114, 97);
+}
+.articleBody2 {
+    font-family: 'Playfair Display', serif;
+    color: rgb(155, 114, 97);
+}
+
+
+
+/*
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,900;1,500&display=swap');
+*/
+
