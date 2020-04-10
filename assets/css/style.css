@@ -33,13 +33,37 @@
     /* margin: 50px 0px;
     padding: 0; */
 }
+/* .navParent {
+    position: relative;
+} */
+a {
+    color:rgb(187, 98, 90);
+}
+a:hover {
+    color:rgb(156, 75, 41);
+    text-decoration: none;
+}
+.nav {
+    font-family: 'Playfair Display', serif;
+    color: rgb(155, 114, 97);
+    /* margin: 150px 0 0 0; */
+    /* margin-bottom: 0; */
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    /* display: inline; */
+}
+.navSpan {
+    display: inline;
+    color:rgb(187, 98, 90);
+}
+
 .mainBody {
     background-color: rgb(246, 252, 247);
     font-family: 'Playfair Display', serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
-p {
-    font-family: 'Playfair Display', serif;
-}
+
 
 .articleTitle1 {
     font-family: 'Playfair Display', serif;
@@ -79,6 +103,32 @@ p {
     font-family: 'Playfair Display', serif;
     color: rgb(155, 114, 97);
 }
+
+.summerReading {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.archiveMain {
+    width: 100%;
+}
+
+.archiveSideBar1 {
+    font-family: 'Playfair Display', serif;
+    /* color: rgb(155, 114, 97); */
+    /* color: rgb(87, 199, 199); */
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5px 10px;
+}
+.archiveSideBar2 {
+    font-family: 'Playfair Display', serif;
+    /* color: rgb(155, 114, 97); */
+    /* color: rgb(87, 199, 199); */
+    font-size: 30px;
+    
+    margin: 5px 10px;
+}
+
 
 
 
