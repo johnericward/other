@@ -104,8 +104,16 @@ a:hover {
     color: rgb(155, 114, 97);
 }
 
+.contRead {
+    font-style: italic;
+}
+
+.articleImageSpacer{
+    margin: 30px 0 0 0;
+}
 .summerReading {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 0 5px 0 5px;
 }
 
 .archiveMain {
