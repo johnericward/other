@@ -7,28 +7,37 @@
 }
 
 .logoDiv {
-    margin: auto;
+    margin: 20px 0px -25px 0px;
+    width: 100%;
+    /* margin: 15% 0% 20% 0%; */
     
-    display: block;
+    /* display: block; */
     text-align: center;
 }
 .siteLogo1 {
-    /* display: inline; */
-    height: 150px;
-    /* vertical-align: bottom; */
-    margin: 20px 0px 20px 0px;
-    padding: 0;
+    /* height: 150px; */
+    /* margin: 20px 0px 20px 0px; */
+    /* padding: 50px; */
+
+    font-family: 'Homemade Apple', cursive;
+    font-size: 720%;
+    color: rgb(238, 135, 33);
+    width: 80%;
+    /* margin: 0px 0px 0px 50px; */
+    /* font-weight: bold; */
 }
 .siteLogo2 {
     font-family: 'Playfair Display', serif;
-    font-size: 80;
+    font-size: 480%;
     font-weight: bold;
-    vertical-align: bottom;
+    width: 80%;
+    /* vertical-align: bottom; */
     /* display: inline; */
-    margin: 0px 50px 0px 0px;
+    /* margin: 0px 50px 0px 0px; */
     /* color: rgb(84, 120, 123); */
     /* color: rgb(212, 168, 78); */
-    color: rgb(163, 105, 48);
+    /* color: rgb(163, 105, 48); */
+    color: rgb(180, 131, 82);
     
     /* margin: 50px 0px;
     padding: 0; */
@@ -118,7 +127,10 @@ a:hover {
 
 .archiveMain {
     width: 100%;
+    text-align: center;
 }
+
+
 
 .archiveSideBar1 {
     font-family: 'Playfair Display', serif;
